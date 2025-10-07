@@ -99,7 +99,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
             <div>
               <h1 className="text-2xl md:text-3xl font-bold text-foreground mb-2">
-                SalesFlow - Phase 1 Progress
+                EB - PIM - Sprint 2 Tracking
               </h1>
               <p className="text-sm text-muted-foreground">
                 {PHASE_START_DATE} → {PHASE_END_DATE}
