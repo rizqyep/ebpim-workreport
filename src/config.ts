@@ -1,5 +1,5 @@
 export const PHASE_START_DATE = "Oct 6 2025";
-export const PHASE_END_DATE = "Oct  2025";
+export const PHASE_END_DATE = "Oct 21 2025";
 
 export const TOTAL_STORY_POINT = 15;
 export const TOTAL_STORY_COMPLETED = 0;
