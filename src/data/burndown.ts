@@ -11,5 +11,11 @@ export const ACTUAL_BURNDOWN: ActualPoint[] = [
   { date: "10/13/2025", storyPoints: null },
   { date: "10/14/2025", storyPoints: null },
   { date: "10/15/2025", storyPoints: null },
+  { date: "10/16/2025", storyPoints: null },
+  { date: "10/17/2025", storyPoints: null },
+  { date: "10/18/2025", storyPoints: null },
+  { date: "10/19/2025", storyPoints: null },
+  { date: "10/20/2025", storyPoints: null },
+  { date: "10/21/2025", storyPoints: null },
 ];
 
